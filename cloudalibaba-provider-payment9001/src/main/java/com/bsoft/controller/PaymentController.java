@@ -17,3 +17,4 @@ public class PaymentController {
         return "nacos registry, serverPort="+serverPort+"\t id:"+id;
     }
 }
+
