@@ -13,6 +13,9 @@
 
     <modules>
         <module>cloudalibaba-provider-payment9001</module>
+        <module>cloudalibaba-provider-payment9002</module>
+        <module>cloudalibaba-consumer-nacos-order8080</module>
+        <module>cloudaalibaba-api-commons</module>
     </modules>
 
     <properties>
