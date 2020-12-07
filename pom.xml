@@ -17,6 +17,7 @@
         <module>cloudalibaba-consumer-nacos-order8080</module>
         <module>cloudaalibaba-api-commons</module>
         <module>cloudalibaba-config-nacos-client3377</module>
+        <module>cloudalibaba-config-nacos-client-dadasource3377</module>
     </modules>
 
     <properties>
